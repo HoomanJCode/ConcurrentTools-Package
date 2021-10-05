@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "unity": "2020.1",
     "displayName": "Concurrent Tools",
-    "description": "You can create and manage menus only by inheritance of MenuView Class.",
+    "description": "You can manage tasks to run in future and schedule in concurrent.",
     "keywords": [
         "Enumerator",
         "Concurrent",
