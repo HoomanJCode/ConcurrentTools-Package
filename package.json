@@ -1,0 +1,19 @@
+{
+    "name": "indie.hoomanjcode.concurrent-tools",
+    "version": "0.0.1",
+    "unity": "2020.1",
+    "displayName": "Concurrent Tools",
+    "description": "You can create and manage menus only by inheritance of MenuView Class.",
+    "keywords": [
+        "Enumerator",
+        "Concurrent",
+        "Parallel",
+        "Tools"
+    ],
+    "author": {
+        "name": "Hooman Jalalpoor",
+        "email": "Hooman.Jalalpoor@gmail.com",
+        "url": "https://github.com/HoomanJCode"
+    },
+    "dependencies": {}
+}
