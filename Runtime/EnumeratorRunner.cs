@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 using UnityEngine;
 
@@ -23,7 +22,7 @@ public class EnumeratorRunner : MonoBehaviour
     {
         lock (SyncRunList)
         {
-            while (SyncRunList.Any())
+            while (SyncRunList.Count>0)
                 SyncRunList.Dequeue().Invoke();
         }
     }
